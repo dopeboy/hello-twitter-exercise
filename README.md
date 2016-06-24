@@ -40,3 +40,6 @@ A sample of what the page should look like and do is below:
 
 1. Enforce the 160 character limitation. 
 2. Your page starts with an empty list of tweets. That's boring. Use [Myjson](http://myjson.com/) to create a simple endpoint that has some sample tweet data. Then use jQuery to perform an AJAX GET on that endpoint when your page loads. You may need to do some research to find out where this call goes in your `UserProfile` component. 
+
+## References
+1. [Bootstrap 4 documentation](v4-alpha.getbootstrap.com)
