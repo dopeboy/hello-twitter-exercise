@@ -32,7 +32,7 @@ A sample of what the page should look like and do is below:
 
 ## Instructions
 
-1. Take out a sheet of paper and start sketching out the components. Think about the parent-child relationships different components should have. Think about who should own the important state elements like the list of tweets. Once you're done, flag down an instructor before you proceed.
+1. Take out a sheet of paper and start sketching out the components. Think about the parent-child relationships each component should have. Think about which component should own the important state elements like the list of tweets. Once you're done, flag down an instructor before you proceed.
 2. Open `app/components/UserProfile/UserProfile.js`. This will be your top level component. Read through the existing code and comments.
 3. Going left to right, start implementing the components one at a time. 
 
